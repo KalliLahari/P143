@@ -1,0 +1,26 @@
+.heading
+{
+width: 100%;
+text-align: left;
+}
+
+.heading h3{
+display: inline;
+}
+
+.heading button{
+float: right;
+border: 2px black solid;
+}
+
+.footer{
+    width: 100%;
+    background: #241571;;
+    color: white;
+    letter-spacing: 2;
+    position: fixed;
+    bottom:0;
+}
+
+
+
